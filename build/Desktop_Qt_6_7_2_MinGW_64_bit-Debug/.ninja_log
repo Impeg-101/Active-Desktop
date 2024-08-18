@@ -1,0 +1,25 @@
+# ninja log v6
+224	2874	7456445055634937	CMakeFiles/ActiveDesktop.dir/splitter_anchor.cpp.obj	42ee0fae130c7d5e
+1247	6522	7456439961992773	CMakeFiles/ActiveDesktop.dir/main.cpp.obj	79ab1527d0dde077
+1892	10736	7454572633474065	CMakeFiles/ActiveDesktop.dir/video_player_slider.cpp.obj	e041fc8665d4a277
+204	273	7451987632439233	C:/Users/IMPEG/Desktop/Qt projects/ActiveDesktop/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ActiveDesktop_autogen/EWIEGA46WW/qrc_resource.cpp	3758073156dfd773
+1252	6440	7456439962052807	CMakeFiles/ActiveDesktop.dir/tool_manager.cpp.obj	e22e02fb3d57c52e
+1874	10933	7454572633294111	CMakeFiles/ActiveDesktop.dir/video_item.cpp.obj	986016445ec17882
+36	223	7456445053754942	ActiveDesktop_autogen/mocs_compilation.cpp	561c67898a09cc4c
+2575	8548	7454805857497134	CMakeFiles/ActiveDesktop.dir/terminal.cpp.obj	39fee40d182c2ac7
+2559	10057	7454805857337107	CMakeFiles/ActiveDesktop.dir/video_player.cpp.obj	218221239b51f018
+1905	2178	7454572633614067	CMakeFiles/ActiveDesktop.dir/ActiveDesktop_autogen/EWIEGA46WW/qrc_resource.cpp.obj	2a53e40cb56dbfc3
+2582	8218	7454805857567144	CMakeFiles/ActiveDesktop.dir/tool_seperator.cpp.obj	cdb07a52b32b1298
+1242	6309	7456439961942778	CMakeFiles/ActiveDesktop.dir/ActiveDesktop_autogen/mocs_compilation.cpp.obj	7d90112652982505
+36	223	7456445053754942	ActiveDesktop_autogen/timestamp	561c67898a09cc4c
+30	981	7454811001691151	build.ninja	6bb12189993b0765
+36	223	7456445053754942	C:/Users/IMPEG/Desktop/Qt projects/ActiveDesktop/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ActiveDesktop_autogen/timestamp	561c67898a09cc4c
+204	273	7451987632439233	ActiveDesktop_autogen/EWIEGA46WW/qrc_resource.cpp	3758073156dfd773
+36	223	7456445053754942	C:/Users/IMPEG/Desktop/Qt projects/ActiveDesktop/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ActiveDesktop_autogen/mocs_compilation.cpp	561c67898a09cc4c
+2874	3431	7456445082141074	ActiveDesktop.exe	80f09e0ae55cb88d
+38	225	7456445304937697	ActiveDesktop_autogen/timestamp	561c67898a09cc4c
+38	225	7456445304937697	ActiveDesktop_autogen/mocs_compilation.cpp	561c67898a09cc4c
+38	225	7456445304937697	C:/Users/IMPEG/Desktop/Qt projects/ActiveDesktop/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ActiveDesktop_autogen/timestamp	561c67898a09cc4c
+38	225	7456445304937697	C:/Users/IMPEG/Desktop/Qt projects/ActiveDesktop/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/ActiveDesktop_autogen/mocs_compilation.cpp	561c67898a09cc4c
+227	3953	7456445306827728	CMakeFiles/ActiveDesktop.dir/tool_manager.cpp.obj	e22e02fb3d57c52e
+3953	4538	7456445344092045	ActiveDesktop.exe	80f09e0ae55cb88d
