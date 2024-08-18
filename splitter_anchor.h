@@ -19,7 +19,7 @@ private:
     QString default_style;
     QString clicked_style;
     void update_position(QMouseEvent *event);
-    void move_to_intersection();
+
     void update_splitter(QSplitter* splitter, int front_index, int back_index, int position);
 protected:
     void mousePressEvent(QMouseEvent *event);
@@ -35,6 +35,7 @@ public:
     QSplitterHandle* get_verticle_splitter_handler();
     void set_horizontal_splitter(QSplitter* splitter, int handler_index, bool isMain=false);
     void set_verticle_splitter(QSplitter* splitter, int handler_index, bool isMain=false);
+    void move_to_intersection();
 };
 
 #endif // SPLITTER_ANCHOR_H

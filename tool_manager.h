@@ -15,6 +15,7 @@ private:
     void updateWidgetMaxSizes(QSplitter *splitter);
     std::vector<QWidget*> open_space_queue;
     std::vector<tool_seperator*> tool_seperators;
+    tool_seperator* main_tool;
 public:
     tool_manager(QWidget *parent = nullptr);
     QWidget* get_UI();

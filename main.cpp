@@ -65,8 +65,12 @@ int main(int argc, char *argv[]) {
     qputenv("QT_MEDIA_BACKEND", "ffmpeg");
     qputenv("QT_AUTO_SCREEN_SCALE_FACTOR", "1");
 
+    QGuiApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
+    QGuiApplication::setHighDpiScaleFactorRoundingPolicy(Qt::HighDpiScaleFactorRoundingPolicy::PassThrough);
+
 
     QApplication app(argc, argv);
+
 
     // QWidget window;
     // QVBoxLayout *layout = new QVBoxLayout(&window);
@@ -111,6 +115,7 @@ int main(int argc, char *argv[]) {
     QRect availableGeometry = screen->availableGeometry(); // This excludes the taskbar
     window->setGeometry(availableGeometry);
     window->layout()->setContentsMargins(0, 0, 0, 0);
+    window->layout()->setSpacing(0);
 
     // video_player *widget = get_video_player_widget(window);
     tool_manager *widget = get_tool_manager_widget(window);
